@@ -31,11 +31,11 @@ Enter a publicly accessible website URL and WebHack fetches the HTML response an
 ---
 
 📱 Termux Installation
-
+```
 pkg update -y
 pkg install curl -y
 pkg install git -y
-
+```
 Clone the repository:
 ```
 git clone https://gitHub.com/krishn-145/WebHack.git
